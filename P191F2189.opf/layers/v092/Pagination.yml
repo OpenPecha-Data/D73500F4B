@@ -4932,20 +4932,20 @@ annotations:
     reference: ''
     span:
       start: 955359
-      end: 956781
+      end: 956779
     note_ref: eab3696099ab4f95a8ac78a46485fff0
   445194a77bba480c8f01bca8616bf46d:
     imgnum: 1480
     reference: ''
     span:
-      start: 956783
-      end: 958162
+      start: 956781
+      end: 958160
     note_ref: eab3696099ab4f95a8ac78a46485fff0
   e6f95453d1ef4659a1500e3bea3ea5e6:
     imgnum: 1481
     reference: ''
     span:
-      start: 958164
+      start: 958162
       end: 959537
     note_ref: eab3696099ab4f95a8ac78a46485fff0
   cf241bda301c418a883ad6054ec41df3:
