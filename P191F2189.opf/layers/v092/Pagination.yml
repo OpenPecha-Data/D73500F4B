@@ -5611,13 +5611,13 @@ annotations:
     reference: ''
     span:
       start: 1088932
-      end: 1090277
+      end: 1090275
     note_ref: a949c7bfdb5d49bbbffa8383911c0fe6
   9f0c18f7121b4da986e49c50b0bc2ed1:
     imgnum: 1577
     reference: ''
     span:
-      start: 1090279
+      start: 1090277
       end: 1091652
     note_ref: a949c7bfdb5d49bbbffa8383911c0fe6
   6c21170b68a644fa8f53afa3e4fb7c56:
